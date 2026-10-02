@@ -10,13 +10,6 @@ It focuses on monitoring factory parameters using sensors and Arduino, with simu
 - **Cloud Platform:** ThingsBoard (IoT Cloud for dashboards)  
 - **Other Tools:** Git | GitHub | pgAdmin4  
 
-## 📂 Project Structure
-- `/code/node1` → Arduino code for Node 1  
-- `/code/node2` → Arduino code for Node 2  
-- `/simulation` → PICSim Lab warehouse setup  
-- `/presentation` → Internship PPT  
-- `/demo` → Screenshots or sample outputs  
-
 ## 🎥 Demo Video
 Watch my project demo here: [YouTube Link](https://youtu.be/Z6i_kuj3n3s?si=2l2gFVu4tneBVHfp)
 
